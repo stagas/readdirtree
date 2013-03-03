@@ -1,0 +1,10 @@
+{
+  "name": "readdirtree",
+  "version": "0.0.1",
+  "description": "reads a dir tree",
+  "keywords": ["dir","directory","recursive","readdir"],
+  "author": "stagas",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": { "node": "*" }
+}
